@@ -12,18 +12,19 @@
 mindmap
   root((Selma Haci))
     Frontend & Mobile
-      Vue.js 3
+      Vue.js & Next.js 
       Flutter (Cross-platform)
       Tailwind CSS
     Backend & Financial Systems
+      Node.js
       Django Rest Framework (DRF)
       FastAPI
       PostgreSQL
     DevOps & Architecture
       GitOps workflows
-      Docker & Airflow
+      Docker 
       Impeccable Documentation
-    Data & MLOps
+    Data & MLOp
       YOLOv8 & OpenCV
       TimescaleDB
       Medallion Pipelines
